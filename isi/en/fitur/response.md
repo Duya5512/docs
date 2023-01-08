@@ -1,4 +1,4 @@
----
+Sms
 title: Response
 description: Sample
 menuTitle: Response
